@@ -151,3 +151,20 @@ tools:
 - name: star_fusion
   owner: iuc
   tool_panel_section_label: "RNA-Seq"
+  
+- name: transdecoder
+  owner: iuc
+  tool_panel_section_label: "RNA-Seq"
+  
+  - name: trimmomatic
+  owner: pjbriggs
+  tool_panel_section_label: "RNA-Seq"
+  
+  - name: fastqc
+  owner: devteam
+  tool_panel_section_label: "RNA-Seq"
+  
+  - name: busco
+  owner: iuc
+  tool_panel_section_label: "RNA-Seq"
+  
