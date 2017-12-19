@@ -160,10 +160,7 @@ tools:
   owner: pjbriggs
   tool_panel_section_label: "RNA-Seq"
   
-  - name: fastqc
-  owner: devteam
-  tool_panel_section_label: "RNA-Seq"
-  
+
   - name: busco
   owner: iuc
   tool_panel_section_label: "RNA-Seq"
